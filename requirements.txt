@@ -1,0 +1,1 @@
+# webbrowser is standard, no external dependencies needed
